@@ -446,9 +446,8 @@ h3{
 }
 
 #hero .hero-content h2 span {
-  color: #ff0000;
-    font-family: 'roboto';
-  
+  color: #ff0000;;
+  font-family: 'roboto';
 }
 
 #hero .hero-content h3 {
