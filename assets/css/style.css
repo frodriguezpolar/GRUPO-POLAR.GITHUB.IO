@@ -442,7 +442,7 @@ h3{
   margin-bottom: 30px;
   font-size: 64px;
   font-weight: 700;
-  font-family: roboto
+  font-family: 'roboto';
 }
 
 #hero .hero-content h2 span {
