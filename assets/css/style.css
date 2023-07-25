@@ -438,10 +438,23 @@ h3{
   text-align: center;
 }
 
-#hero .hero-content h2 {
+#hero .hero-content h1 {
   color: #0c2e8a;
   margin-bottom: 30px;
   font-size: 64px;
+  font-weight: 700;
+  font-family: 'roboto';
+}
+
+#hero .hero-content h1 span {
+  color: #ff0000;;
+  font-family: 'roboto';
+}
+
+#hero .hero-content h2 {
+  color: #0c2e8a;
+  margin-bottom: 30px;
+  font-size: 35px;
   font-weight: 700;
   font-family: 'roboto';
 }
